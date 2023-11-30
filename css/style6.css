@@ -1,0 +1,39 @@
+#two, #three {
+    color: red;
+}
+
+#five {
+    background-color:#80FF00;
+}
+
+#one {
+    background-color: lightGray;
+}
+
+header {
+    background-color: #FFA7F5;
+}
+
+img {
+    margin-left: 400px;
+}
+
+input {
+    margin-left: 300px;
+}
+
+button {
+    margin-left: 70px;
+}
+
+#calend {
+    margin-left: 200px;
+}
+
+#footer {
+    margin-left: 300px;
+}
+
+.background-color {
+    background-color: #FFA7F5;
+}
